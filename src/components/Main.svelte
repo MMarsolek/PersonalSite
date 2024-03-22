@@ -24,7 +24,7 @@ const benefits = [
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favorite languages</span> include TypeScript, JavaScript, Java, and Go! 
             </p>
-            <a href="https://www.linkedin.com/in/mariahmarsolek" target="_blank" class="blueShadow mx-auto lg:mr-auto text-base sm:text-lg md:text-cl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">        
+            <a href="https://www.linkedin.com/in/mariahmarsolek" target="_blank" class="blueShadow mx-auto lg:mr-auto lg-ml-0 text-base sm:text-lg md:text-cl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950 cursor-pointer">        
                 <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
                 <h4 class="relative z-9">
                     Get in touch &rarr;
@@ -94,7 +94,7 @@ const benefits = [
         <h5 class={" text-2xl sm:text-3xl font-semibold text-center poppins "}>
             The <span class="text-violet-400 poppins">Complete</span> package
         </h5>
-        <div class="flex flex-col overflow-x-scroll gap-10 max-w-[800px] mx-auto w-full">
+        <div class="flex flex-col overflow-x-auto gap-10 max-w-[800px] mx-auto w-full">
             <table class="bg-white text-slate-700 rounded text-center">
                 <thead class="border-b border-solid border-slate-200">
                     <tr class="">
