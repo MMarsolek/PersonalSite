@@ -32,7 +32,7 @@ const benefits = [
             </a>
         </div>
         <div class="relative shadow-2xl grid place-items-center ">
-            <img src={"/assets/images/profile.png"} alt="profile of Mariah" class="object-cover z-[2] max-h-[70vh]"/>
+            <img src={"assets/images/profile.png"} alt="profile of Mariah" class="object-cover z-[2] max-h-[70vh]"/>
         </div>
     </section>
 
