@@ -7,9 +7,9 @@ const steps = [
     {name:"SkyFall-Travel" , icon:"fa-solid fa-plane"},
 ]
 const benefits = [
-    {name: "a self taught", description:"In early 2020, I decided to throw myself fully into learning programming from home. This meant taking many free courses and following different tutorials online. I was lucky enough to be able to attend an official coding boot camp in 2021 before offically joining the work force. "},
+    {name: "self taught", description:"In early 2020, I decided to throw myself fully into learning programming from home. This meant taking many free courses and following different tutorials online. I was lucky enough to be able to attend an official coding boot camp in 2021 before offically joining the work force. "},
     {name: "an enthusiastic learner", description:"My goal is to contribute to cutting-edge web and application projects, continuously improve my abilities, and positively impact the user's digital experience. That means I must constantly be up to learning new skills and expanding my knowledge. It is important to remember that there is always room for growth."},
-    {name: "an excellent communicator", description:"My many teaching and customer facing roles have lead me to become an excellent communicator. I have seen first hand how important good communication is between coworks and other teams."},
+    {name: "an excellent communicator", description:"My many teaching and customer facing roles have lead me to become an excellent communicator. I have seen first hand how important good communication is between coworkers and other teams."},
 ]
 </script>
 
