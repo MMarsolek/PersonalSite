@@ -2,9 +2,9 @@
 import Step from "./Step.svelte"
 
 const steps = [
-    {name:"Auction House" , icon:"fa-solid fa-gavel"},
-    {name:"Street Fighter" , icon:"fa-solid fa-gamepad"},
-    {name:"SkyFall-Travel" , icon:"fa-solid fa-plane"},
+    {name:"Auction House" , icon:"fa-solid fa-gavel", href:"https://github.com/MMarsolek/AuctionHouse"},
+    {name:"Street Fighter" , icon:"fa-solid fa-gamepad", href:"https://github.com/MMarsolek/StreetFighterCombo"},
+    {name:"SkyFall-Travel" , icon:"fa-solid fa-plane", href:"https://github.com/hcweigand10/SkyFall-Travel"},
 ]
 const benefits = [
     {name: "self taught", description:"In early 2020, I decided to throw myself fully into learning programming from home. This meant taking many free courses and following different tutorials online. I was lucky enough to be able to attend an official coding boot camp in 2021 before offically joining the work force. "},
