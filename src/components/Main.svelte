@@ -4,7 +4,7 @@ import Step from "./Step.svelte"
 const steps = [
     {name:"Auction House" , icon:"fa-solid fa-gavel", href:"https://github.com/MMarsolek/AuctionHouse"},
     {name:"Street Fighter" , icon:"fa-solid fa-gamepad", href:"https://github.com/MMarsolek/StreetFighterCombo"},
-    {name:"SkyFall-Travel" , icon:"fa-solid fa-plane", href:"https://github.com/hcweigand10/SkyFall-Travel"},
+    {name:"NASA APOD Project" , icon:"fa-solid fa-user-astronaut", href:"https://mmarsolek.github.io/NASA-POTD/"},
 ]
 const benefits = [
     {name: "certified", description:"In early 2020, I decided to throw myself fully into learning programming from home. This meant taking many free courses and following different tutorials online. I was lucky enough to be able to attend an official coding boot camp in 2021 before officially joining the work force. "},
@@ -58,7 +58,7 @@ const benefits = [
                 <p>This project serves as the backend for a Street Fighter combo translator. The backend of this project was created using <strong class="text-violet-400">JavaScript</strong></p>
             </Step>
             <Step step={steps[2]}>
-                <p>This project allows a user to create, view, edit, and delete future travel plans. This project was created using <strong class="text-violet-400">JavaScript</strong>, <strong class="text-violet-400">CSS (JASS)</strong>, and <strong class="text-violet-400">SQL</strong></p>
+                <p>This single page site was created using <strong class="text-violet-400">React</strong>, <strong class="text-violet-400">JavaScript</strong>, and <strong class="text-violet-400">CSS </strong>. Its purpose is to get data from the Astronomy Picture of the Day (APOD) API hosted by NASA and display the resulting image and description.</p>
             </Step>
         </div>
     </section>
